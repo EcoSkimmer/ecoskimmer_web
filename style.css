@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+div {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(rgb(137, 240, 137), rgb(8, 88, 102), black);
+}
